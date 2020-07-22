@@ -1,0 +1,12 @@
+---
+:id: 12212344
+:submitters:
+- :name: Anshul Tripathi
+  :email: anshult@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2018-12-11 02:46:34.787482000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2018-12-10 18:46:34.787482000 Z
+:status: processed
+:score: 1.0
